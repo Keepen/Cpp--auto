@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\vs project\cpp\auto关键字\源.cpp(66): error C2248: “main::B::print”: 无法访问 private 成员(在“main::B”类中声明)
+  c:\vs project\cpp\auto关键字\源.cpp(59): note: 参见“main::B::print”的声明
+  c:\vs project\cpp\auto关键字\源.cpp(58): note: 参见“main::B”的声明
+c:\vs project\cpp\auto关键字\源.cpp(67): error C2248: “main::B::a”: 无法访问 private 成员(在“main::B”类中声明)
+  c:\vs project\cpp\auto关键字\源.cpp(62): note: 参见“main::B::a”的声明
+  c:\vs project\cpp\auto关键字\源.cpp(58): note: 参见“main::B”的声明
